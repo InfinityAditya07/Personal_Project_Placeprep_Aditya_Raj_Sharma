@@ -95,6 +95,20 @@ placeprep/
 
 Each portal is its own Next.js app with its own `package.json`, deployed as its own Vercel project, importing shared backend logic from `backend/src`. There's no separate API server — the backend service layer runs inside each portal's own Next.js API routes.
 
+
+*Email:* ⁠ admin@newtonschool.co ⁠
+•⁠  ⁠*Password:* ⁠ Admin@NST2024 ⁠
+
+*Faculty Portal:*
+
+•⁠  ⁠*Email:* ⁠ priya.nair@newtonschool.co ⁠ (or any other faculty email seeded)
+•⁠  ⁠*Password:* ⁠ Faculty@2024 ⁠
+
+*Student Portal:*
+
+•⁠  ⁠*Email:* ⁠ arjun.mehta@newtonschool.co ⁠ (or any other student email seeded)
+•⁠  ⁠*Password:* ⁠ Student@2024 ⁠
+
 ---
 
 ## Data
